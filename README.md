@@ -1,16 +1,82 @@
-### Hi there 👋
+### Hey everyone 👋
 
-<!--
-**Arthur-Cozca/Arthur-Cozca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So, i am Arthur, i am a 16yo Web, Lua, Dart developer. 
 
-Here are some ideas to get you started:
+# What i am do currently ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, i do : 
+- some discord bot with [DiscordJS](https://discord.js.org/)
+- Website with [Laravel](https://laravel.com/) or [VueJS](https://vuejs.org/)
+- [Roblox](https://roblox.com/) script with Lua 
+
+# How reach me ?
+
+If you want to contact me, please send an email at my [email adress](arthur.servantie@protonmail.com)
+
+
+Thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i like apples :3
+
