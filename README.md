@@ -1,17 +1,17 @@
 ### Hey everyone 👋
 
-So, i am Arthur, i am a 16yo Web, Lua, Dart developer. 
+My name is Arthur, i'm 16yo, i start to code 4 years ago, i am open for all project (only condition : It have to be cool :D)
 
-# What i am do currently ?
+# My Project
 
-Currently, i do : 
-- some discord bot with [DiscordJS](https://discord.js.org/)
-- Website with [Laravel](https://laravel.com/) or [VueJS](https://vuejs.org/)
-- [Roblox](https://roblox.com/) script with Lua 
+Currently, i have some cool project in coding such as : 
+Update of CraftMyWebsite (PHP) | a new web framework (PHP) | My own discord librairy (JS)
+-----------------------------------------------------------------------------------------
 
-# How reach me ?
+# How can you reach me ?
 
-If you want to contact me, please send an email at my [email adress](arthur.servantie@protonmail.com)
+If you want to reach me, please send an email at my e-mail adress ; arthur.servantie@protonmail.com
+You can also reach me with discord ! Here is my account : Cozca#4325
 
 
 Thanks
@@ -78,5 +78,5 @@ Thanks
 
 
 
-i like apples :3
+
 
